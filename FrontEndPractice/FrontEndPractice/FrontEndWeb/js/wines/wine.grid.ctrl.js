@@ -1,3 +1,3 @@
-﻿angular.module('app').controller('WinesGridController', function ($scope) {
+﻿angular.module('app').controller('WineGridController', function ($scope) {
 
 });

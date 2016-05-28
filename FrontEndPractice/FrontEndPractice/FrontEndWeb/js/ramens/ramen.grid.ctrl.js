@@ -1,3 +1,3 @@
-﻿angular.module('app').controller('RamensGridController', function ($scope) {
+﻿angular.module('app').controller('RamenGridController', function ($scope) {
 
 });

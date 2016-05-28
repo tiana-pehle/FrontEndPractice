@@ -1,3 +1,3 @@
-﻿angular.module('app').controller('SpecialtiesGridController', function ($scope) {
+﻿angular.module('app').controller('SpecialtyGridController', function ($scope) {
 
 });

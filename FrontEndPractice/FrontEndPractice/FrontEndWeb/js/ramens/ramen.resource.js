@@ -1,3 +1,8 @@
-﻿angular.module('app').factory('RamensResource', function ($resource) {
-
+﻿angular.module('app').factory('RamenResource', function ($resource) {
+    return $resource('/api/ramens/:ramenId', {ramenId: '@RamenId'},
+        {
+            'update': {
+                method: 'PUT'
+            }
+        })
 });

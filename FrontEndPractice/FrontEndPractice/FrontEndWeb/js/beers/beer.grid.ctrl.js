@@ -1,3 +1,3 @@
-﻿angular.module('app').controller('BeersGridController', function ($scope) {
+﻿angular.module('app').controller('BeerGridController', function ($scope) {
 
 });
